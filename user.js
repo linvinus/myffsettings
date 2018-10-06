@@ -58,7 +58,7 @@
  user_pref("browser.tabs.remote.force-enable", false);
  user_pref("browser.tabs.remote.warmup.enabled", false);
  user_pref("browser.tabs.tabMinWidth", 1);
- user_pref("browser.uidensity", 2);
+ user_pref("browser.uidensity", 1);
  user_pref("browser.urlbar.placeholderName", "Google");
  user_pref("browser.urlbar.timesBeforeHidingSuggestionsHint", 0);
  user_pref("clipboard.autocopy", false);
